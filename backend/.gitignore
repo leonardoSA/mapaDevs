@@ -1,0 +1,15 @@
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
+
+# End of https://www.gitignore.io/api/react
