@@ -37,6 +37,19 @@ function App() {
         </form>
       </aside>
       <main>
+        <ul>
+          <li>
+            <header>
+              <img src="https://avatars1.githubusercontent.com/u/7051958?s=460&u=5828677eb759c518f08b9f5fde487900742047d1&v=4" alt="Leonardo Araujo" />
+              <div className="user-info">
+                <strong>Leonardo Araujo</strong>
+                <span>Reactjs, React Native, NodeJS</span>
+              </div>
+            </header>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec leo porttitor, pretium leo nec, tincidunt odio.</p>
+            <a href="https://github.com/leonardoSA">Acessar Perfil no GitHub</a>
+          </li>
+        </ul>
 
       </main>
     </div>
